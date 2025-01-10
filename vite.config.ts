@@ -15,7 +15,7 @@ export default defineConfig({
       dirs: ["src/hooks", "src/stores", "src/components/**"]
     })
   ],
-  base: "/vite-deploy-demo/",
+  base: "/portfolio-macOS/",
   resolve: {
     alias: {
       "~/": `${path.resolve(__dirname, "src")}/`
