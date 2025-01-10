@@ -32,7 +32,7 @@ const websites: WebsitesData = {
       {
         id: "medium",
         title: "Medium",
-        img: "img/sites/medium.svg",
+        img: "img/sites/medium.png",
         link: "https://medium.com/@arghajitsingha47"
       }
     ]
@@ -61,7 +61,7 @@ const websites: WebsitesData = {
       {
         id: "medium",
         title: "Medium",
-        img: "img/sites/medium.svg",
+        img: "img/sites/medium.png",
         link: "https://medium.com/"
       },
       {
