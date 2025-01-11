@@ -220,7 +220,12 @@ const Personal = () => {
       <div className="w-44 overflow-auto bg-gray-700">
         <Sidebar cur={state.curSidebar} setMidBar={setMidBar} />
       </div>
-      <div className="w-60 overflow-auto" bg="gray-50 dark:gray-800" border="r c-300">
+      <div
+        className="w-60 overflow-auto"
+        bg="gray-50 dark:gray-800"
+        border="r c-300"
+        style={{ width: "17rem" }}
+      >
         <Middlebar
           items={state.midbarList}
           cur={state.curMidbar}
