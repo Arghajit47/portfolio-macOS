@@ -38,11 +38,5 @@ pnpm build
 - [@Renovamen](https://github.com/Renovamen)
 
 
-
-
 &nbsp;
 
-## License
-
-[MIT](MIT)
-# portfolio-macOS
