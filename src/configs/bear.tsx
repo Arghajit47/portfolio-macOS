@@ -54,7 +54,7 @@ const bear: PersonalData[] = [
       {
         id: "database-testing",
         title: "Database Testing",
-        file: "https://raw.githubusercontent.com/Arghajit47/Playwright-database-testing/main/README.md",
+        file: "https://raw.githubusercontent.com/Arghajit47/Playwright-database-testing/main/readme.md",
         icon: "i-ri:newspaper-fill",
         excerpt: "A framework implemented in playwright with postgreSQL...",
         link: "https://github.com/Arghajit47/playwright-database-testing"
@@ -62,7 +62,7 @@ const bear: PersonalData[] = [
       {
         id: "v-card",
         title: "vCard Portfolio",
-        file: "https://raw.githubusercontent.com/Arghajit47/VCard-Portfolio-Arghajit/master/README.md",
+        file: "https://raw.githubusercontent.com/Arghajit47/VCard-Portfolio-Arghajit/master/Readme.md",
         icon: "i-fa-brands:vuejs",
         excerpt: "A simple vCard portfolio...",
         link: "https://arghajit47.github.io/VCard-Portfolio-Arghajit/"
@@ -70,7 +70,7 @@ const bear: PersonalData[] = [
       {
         id: "mail-report",
         title: "Mail Reporter",
-        file: "https://raw.githubusercontent.com/Arghajit47/playwright-mail-report-and-API-ZOD-validation/master/README.md",
+        file: "https://raw.githubusercontent.com/Arghajit47/playwright-mail-report-and-API-ZOD-validation/master/Readme.md",
         icon: "i-akar-icons:sword",
         excerpt: "A playwright based automated reports with email notifications...",
         link: "https://arghajit47.github.io/playwright-mail-report-and-API-ZOD-validation/"
@@ -78,7 +78,7 @@ const bear: PersonalData[] = [
       {
         id: "api-playwright",
         title: "Playwright API Testing",
-        file: "https://raw.githubusercontent.com/Arghajit47/playwright-mail-report-and-API-ZOD-validation/master/README.md",
+        file: "https://raw.githubusercontent.com/Arghajit47/playwright-mail-report-and-API-ZOD-validation/master/Readme.md",
         icon: "i-ri:newspaper-fill",
         excerpt:
           "Performs API schema validation using Zod for robust testing and reporting...",
@@ -87,7 +87,7 @@ const bear: PersonalData[] = [
       {
         id: "jenkins",
         title: "Jenkins test CI/CD",
-        file: "https://raw.githubusercontent.com/Arghajit47/PlaywrightWithJenkins/main/README.md",
+        file: "https://raw.githubusercontent.com/Arghajit47/PlaywrightWithJenkins/main/Readme.md",
         icon: "i-icon-park-outline:heavy-metal",
         excerpt: "A playwright test framework integrated with Jenkins pipeline...",
         link: "https://github.com/Arghajit47/PlaywrightWithJenkins"
@@ -103,7 +103,7 @@ const bear: PersonalData[] = [
       {
         id: "Loadtesting-k6",
         title: "Load Testing",
-        file: "https://raw.githubusercontent.com/Arghajit47/LoadTesting-k6/loadTesting/README.md",
+        file: "https://raw.githubusercontent.com/Arghajit47/LoadTesting-k6/loadTesting/Readme.md",
         icon: "i-ant-design:audio-filled",
         excerpt: "Automated Load Testing using Graphana K6...",
         link: "https://github.com/Arghajit47/LoadTesting-k6"
